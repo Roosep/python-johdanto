@@ -1,10 +1,10 @@
 def ensimmainen():
     print("Nyt olemme tulosta-aliohjelmassa")
     print("Tämä aliohjelma tulostaa vain tekstiä.")
-    print("Tämä sopii hyvin valikon tekemiseen.")
+    print("Tämä sopii hyvin valikon tulostamiseen.")
 
 def toinen(luku):
-    print("Aliohjelmassa parametsin arvo on {}".format(luku))
+    print("Aliohjelmassa parametrin arvo on {}".format(luku))
     nelio = luku * luku
     print("Aliohjelmassa parametrin arvo on neliöön korottamisen jälkeen {}".format(nelio))
 

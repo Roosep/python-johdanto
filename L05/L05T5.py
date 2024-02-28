@@ -4,7 +4,7 @@ def Valikko():
     print("2) Summa")
     print("3) Osamäärä")
     print("0) Lopeta")
-    toiminto = int(input("Valitse toiminto (0-6): "))
+    toiminto = int(input("Valitse toiminto (0-3): "))
 
     return toiminto
 
