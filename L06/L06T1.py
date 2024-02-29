@@ -1,5 +1,5 @@
 def TiedostoLue(tiedostonimi):
-    print("Tiedostoon '{}' on tallennettu seuraavat nimet: ".format(tiedostonimi))
+    print("Tiedostoon '{}' on tallennettu seuraavat nimet:".format(tiedostonimi))
     tiedosto = open(tiedostonimi, "r")
     while True:
         rivi = tiedosto.readline()
