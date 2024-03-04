@@ -98,7 +98,7 @@ def main():
     tallennaTulos(kirjoitettavaTiedosto, lista2)
     
 
-    print("Lopetetaan")
+    print("Tallennettu tiedosto '{}'.".format(kirjoitettavaNimi))
     print("Kiitos ohjelman käytöstä.")
 
 

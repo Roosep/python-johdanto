@@ -24,6 +24,7 @@ def TeeValinta():
 def main():
     lista = []
 
+    print("Ostoslistasi sisältää seuraavat tuotteet:")
     print(lista)
     valinta = TeeValinta()
 
@@ -34,9 +35,9 @@ def main():
         elif valinta == 2:
             print("Ostoslistassasi on {} tuotetta.".format(len(lista)))
             poistettavaTuote = int(input("Anna poistettavan tuotteen järjestysnumero: "))
-            lista.pop(poistettavaTuote)
+            lista.pop(poistettavaTuote-1)
         else:
-            print("Tunnistamaton valita.")
+            print("Tunnistamaton valinta.")
 
         print()
 

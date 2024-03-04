@@ -18,7 +18,7 @@ class VARASTO:
 
 def Tiedot(auto):
     autoMerkki = input("Anna automerkki: ")
-    autojenMaara = int(input("Anna automerki lukumäärä varastossa: "))
+    autojenMaara = int(input("Anna automerkin lukumäärä varastossa: "))
 
     auto.merkki = autoMerkki
     auto.maara = autojenMaara
