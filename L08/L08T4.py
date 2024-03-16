@@ -2,7 +2,7 @@
 # CT60A0203 Ohjelmoinnin perusteet
 # Tekijä: Roope Seppälä
 # Opiskelijanumero: 002328748
-# Päivämäärä: 4.3.2024
+# Päivämäärä: 13.3.2024
 # Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat 
 # lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
 # Tiettyjen metodien toimintoja on käyty hakemassa w3shcools sivuston materiaaleista

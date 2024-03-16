@@ -1,3 +1,18 @@
+######################################################################
+# CT60A0203 Ohjelmoinnin perusteet
+# Tekijä: Roope Seppälä
+# Opiskelijanumero: 002328748
+# Päivämäärä: 13.3.2024
+# Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat 
+# lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
+# Tiettyjen metodien toimintoja on käyty hakemassa w3shcools sivuston materiaaleista
+# Muuten kurssimateriaalin lisäksi on käytetty vain aikaisemmin oppimia asioita
+# Mahdollisen vilppiselvityksen varalta vakuutan, että olen tehnyt itse 
+# tämän tehtävän ja vain yllä mainitut henkilöt sekä lähteet ovat
+# vaikuttaneet siihen yllä mainituilla tavoilla.
+######################################################################
+
+
 import L08T2Kirjasto as muunnin
 
 def main():
